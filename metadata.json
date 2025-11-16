@@ -1,0 +1,5 @@
+{
+  "name": "SoleSync - Sneaker Inventory",
+  "description": "A comprehensive inventory management system for shoes and sneakers. Easily track products by color and size, manage stock levels with detailed transaction logs, and query your inventory in real-time. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
